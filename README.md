@@ -1,4 +1,5 @@
 
+
 # Flask Docker Application
 
 Production-ready Flask app with Docker multi-container deployment.
@@ -8,7 +9,6 @@ Production-ready Flask app with Docker multi-container deployment.
 git clone https://github.com/raeesmalik89-oss/flask-docker-app.git
 cd flask-docker-app
 docker-compose up -d --build
-
 
 ## Tech Stack
 - Flask Web Framework
